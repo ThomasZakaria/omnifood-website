@@ -10,18 +10,7 @@ Check it out live: [omnifood-website-ruddy.vercel.app](https://omnifood-website-
 
 ---
 
-## 📸 Screenshots  
 
-**Hero Section**  
-![Hero](assets/hero.png)  
-
-**How It Works**  
-![How It Works](assets/how-it-works.png)  
-
-**Pricing Plans**  
-![Pricing](assets/pricing.png)  
-
----
 
 ## 🛠️ Technologies Used  
 - HTML5  
